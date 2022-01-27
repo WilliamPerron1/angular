@@ -1,0 +1,12 @@
+{
+  "title": "Recipeasy!",
+  "email": "Enter your email",
+  "password": "Enter your password",
+  "errorEmail": "please provide email",
+  "errorPwd": "please provide a password minimum 3 character long",
+  "translateButton": "French",
+  "signInButton": "Sign in",
+  "signUpButton": "Sign up"
+
+
+}

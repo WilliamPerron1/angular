@@ -1,0 +1,12 @@
+{
+  "title": "Recette!",
+  "email": "Entrer votre email",
+  "password": "Entrer votre mot de passe",
+  "errorEmail": "s'il vous plaît entrer un email",
+  "errorPwd": "s'il vous plaît entrer un mot de passe de 3 caractère minimum",
+  "translateButton": "Anglais",
+  "signInButton": "Connection",
+  "signUpButton": "Création d'un compte"
+
+
+}
